@@ -5,4 +5,4 @@
 
 
 ## ブレッドボード図
-回路図
+![回路図](https://github.com/ishi-0409/photon/blob/main/photon.png)
